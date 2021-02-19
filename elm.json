@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "elm/project-metadata-utils",
+    "name": "eco-pro/project-metadata-utils",
     "summary": "Work with elm.json and docs.json files in Elm",
     "license": "BSD-3-Clause",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "exposed-modules": {
         "Metadata": [
             "Elm.Docs",
